@@ -2,23 +2,24 @@
 content_type: page
 description: This syllabus section provides information on course objectives, requirements,
   and meeting times.
-draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 68e63c8e-c72e-e540-92c6-1e32f43bdc0b
 ---
-## Course Meeting Times
+
+Course Meeting Times
+--------------------
 
 Lectures: 1 session / week, 1.5 hours / session
 
-test
-
-## Course Objective
+Course Objective
+----------------
 
 Transportation Policy, Strategy and Management is a survey course of current concepts, theory and issues in the strategic management of transportation organizations. Designed for graduate transportation, logistics, planning and engineering systems students, the objective of this course is to provide students with an overview of the operating context, leadership challenges, strategies and management tools that are used in today's public and private transportation organizations. As transportation operations occur within an environment where the roles of public and private organizations are often blurred, this course focuses on the patterns of conflict and consensus between government and industry in transportation. The following concepts, approaches and issues are presented: alternative models of decision making, strategic planning (e.g., use of SWOT analysis and scenario development), stakeholder valuation and analysis, government-business regulation and cooperation within the transportation enterprise, disaster communications, change management and the impact of globalization.
 
-## Course Requirements
+Course Requirements
+-------------------
 
 Each class meeting will be a combination of lectures and group discussions. Lectures will integrate the assigned readings and other materials. Group discussion will examine a particular case, apply the concepts contained within the readings and integrate the lecture materials.
 
